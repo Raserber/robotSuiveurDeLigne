@@ -25,7 +25,7 @@ Robot suiveur de ligne réalisé dans le cadre de mes études en BUT GEII (Géni
 
 # Concours CRSE - IUT 1
 
-Concours réunissant la promotion de $1^{\text{ere}}$ année de BUT GEII.
+Concours réunissant la promotion de 1ère année de BUT GEII.
 
 Tournoi en 1 vs 1.
 
